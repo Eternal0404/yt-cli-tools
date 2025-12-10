@@ -15,8 +15,8 @@ requirements = (this_directory / "requirements.txt").read_text(encoding='utf-8')
 setup(
     name='yt-cli-tools',
     version='1.0.0',
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Eternal0404',
+    author_email='raiyanethar@gmail.com',
     description='YT CLI tools: download YouTube videos/audio, generate transcript summaries, convert/compress media, and extract metadata — all from your terminal.',
     long_description=long_description,
     long_description_content_type='text/markdown',

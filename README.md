@@ -278,15 +278,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-- Open an issue on [GitHub](https://github.com/YOUR_USERNAME/yt-cli-tools/issues)
+- Open an issue on [GitHub](https://github.com/Eternal0404/yt-cli-tools/issues)
 - Check existing issues for solutions
 - Provide detailed error messages and system information when reporting bugs
 
 ## Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
+**Eternal0404**
+- GitHub: [@Eternal0404](https://github.com/Eternal0404)
+- Email: raiyanethar@gmail.com
 
 ---
 
