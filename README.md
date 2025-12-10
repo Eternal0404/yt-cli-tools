@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YT CLI Tools
 
 YT CLI tools: download YouTube videos/audio, generate transcript summaries, convert/compress media, and extract metadata — all from your terminal.
@@ -291,3 +292,7 @@ If you encounter any issues or have questions:
 ---
 
 Made with ❤️ for content creators and video enthusiasts
+=======
+# yt-cli-tools
+"YT CLI tools: download YouTube videos/audio, generate transcript summaries, convert/compress media, and extract metadata — all from your terminal."
+>>>>>>> 78f4087826e36a8bbd0635400e9f4b6e9e296222
